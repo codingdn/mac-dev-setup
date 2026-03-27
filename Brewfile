@@ -1,5 +1,7 @@
 # Taps
 tap "sdkman/tap"
+tap "google/antigravity"
+
 
 # CLI Tools
 brew "git"
@@ -10,6 +12,9 @@ brew "nvm"
 brew "fzf"
 brew "bat"
 brew "sdkman-cli"
+brew "lazygit"
+brew "ncdu"
+brew "btop"
 
 # Browsers & Productivity
 cask "brave-browser"
@@ -19,6 +24,7 @@ cask "todoist"
 cask "spotify"   
 cask "bitwarden"
 cask "google-drive" 
+cask "figma"
 
 # Dev Tools & Terminals
 cask "visual-studio-code"
@@ -27,7 +33,15 @@ cask "github"
 cask "bruno"        
 cask "docker"     
 cask "ollama"
+cask "claude"
+cask "figma"
+cask "beekeeper-studio"
+cask "antigravity"
 
 # Security & Utilities
 cask "protonvpn"
 cask "rectangle"
+
+# Misc
+cask "adobe-creative-cloud"
+cask "davinci-resolve"
