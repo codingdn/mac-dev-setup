@@ -25,6 +25,7 @@ cask "spotify"
 cask "bitwarden"
 cask "google-drive" 
 cask "figma"
+cask "numi"
 
 # Dev Tools & Terminals
 cask "visual-studio-code"
