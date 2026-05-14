@@ -29,7 +29,8 @@ cask "numi"
 
 # Dev Tools & Terminals
 cask "visual-studio-code"
-cask "cmux"
+cask "ghostty"
+cask "warp"
 cask "github"      
 cask "bruno"        
 cask "docker"     
